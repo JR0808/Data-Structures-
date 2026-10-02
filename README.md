@@ -172,9 +172,3 @@ These estimates exclude transient allocations while loading or constructing/rese
 Use the assignment's naming and upload rules. The source ZIP should contain the `.cpp`, `.hpp`, and CSV/text files needed to build both programs, with the shared `common` directory retained. Include this guide as `README.txt` in the submission copy if only text files are allowed. Keep generated executables, object files, build folders, editor files, and unrelated artifacts out of that ZIP. Submit the required Word report and team MP4 separately.
 
 Before packaging, extract a clean copy, build both executables from source, load all three datasets, and check the final reports and benchmark output. A working source package does not establish that the separate report, video, workload signatures, declarations, or Moodle submission are complete.
-
-## AI assistance and assignment policy
-
-AI assistance in this revision included code review, implementation/refactoring, and test creation/execution. Describing this revision as formatting-only or syntax-only assistance would be inaccurate.
-
-The previously supplied assignment PDF contains restrictive AI-use rules, including restrictions on generated core solutions. The authoritative version and any lecturer permission remain to be confirmed. Before submitting, check the applicable policy, disclose the actual assistance truthfully, and complete any independently authored rework the lecturer requires. Every member must understand and be able to explain their own submitted contribution. A declaration alone does not establish permission to submit AI-assisted implementation.
